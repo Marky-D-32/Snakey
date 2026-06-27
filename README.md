@@ -15,7 +15,7 @@ To run the game without assembling the code file:
 + Download Snakey.cas to your device
 + Open a browser and paste the following URL:  https://www.6809.org.uk/xroar/online/
 + Under the emulation screen, click the File tab
-+ Click the load button, and select the downloaded Cupid.cas
++ Click the load button, and select the downloaded Snakey.cas
 + In the emulation screen, type the following: CLOADM:EXEC   <press enter>
                 
 <img src='./Snakey.jpg' width=60%>
